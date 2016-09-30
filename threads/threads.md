@@ -114,7 +114,7 @@ You can download our swatches and import them into your document. We recommend u
 [threads.sketchpalette](https://www.dropbox.com/s/687rfqgoup97lp7/threads.sketchpalette?dl=0)
 
 <figure>
-  ![Threads Colors](/images/threads-web-style-color-slate.png)
+  ![Threads Colors](https://github.com/sayheyrickjames/projects/blob/master/threads/images/threads-web-style-color-slate.png)
 </figure>
 
 [Zeplin link](https://zpl.io/Z1iiodP)
