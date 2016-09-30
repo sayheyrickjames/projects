@@ -6,7 +6,7 @@ Threads is a visual design language for our users that outlines individual compo
 
 It is intended to be a living document that will be updated as we continue to develop the tenets and specifics of our system. It functions as a point of record, as well as our central place for design collaboration.
 
-[Back to Top](#about-threads)
+[back to top](#about-threads)
 
 ## 1.2 Goals
 
@@ -16,7 +16,7 @@ Incorporate everything we’ve learned on all sides of our business into one coh
 ### Develop a single system
 Provide a unified experience across platforms and device sizes, for all internal stakeholders to easily build, maintain and iterate.
 
-[Back to Top](#about-threads)
+[back to top](#about-threads)
 
 ## 1.3 Principles
 
@@ -29,7 +29,7 @@ TBD
 ### Content
 TBD
 
-[Back to Top](#about-threads)
+[back to top](#about-threads)
 
 ## 1.4 Working with Threads
 
@@ -40,4 +40,4 @@ There’s a few simple things you can do to quickly get up to speed.
 2. Attend an overview orientation.
 3. Review Threads and the file system with your manager or Threads point of contact.
 
-[Back to Top](#about-threads)
+[back to top](#about-threads)
