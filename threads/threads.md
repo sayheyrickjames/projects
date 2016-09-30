@@ -11,12 +11,12 @@ It is intended to be a living document that will be updated as we continue to de
 
 ## 1.2 Goals
 
-###Define our visual language
+Define our visual language
 
 
 Incorporate everything we’ve learned on all sides of our business into one cohesive point of view describing how we visually speak and articulate our value proposition to our customers.
 
-###Develop a single system
+Develop a single system
 
 
 Provide a unified experience across platforms and device sizes, for all internal stakeholders to easily build, maintain and iterate.
